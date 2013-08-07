@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Presentation.Admin.Site1" %>
+
+<%@ Register src="Control/AdminTop.ascx" tagname="AdminTop" tagprefix="uc1" %>
+
+<%@ Register src="Control/AdminLeft.ascx" tagname="AdminLeft" tagprefix="uc2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../App_Themes/Admin/layout.css" rel="stylesheet" type="text/css" />
+    <link href="../App_Themes/Admin/style_html5.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="width">
+    <header>
+    <div id="header">
+
+        <uc1:AdminTop ID="AdminTop1" runat="server" />
+
+    </div>
+    </header>
+        <aside>
+	<section>  
+	  
+		<div id="user">
+			<uc2:AdminLeft ID="AdminLeft1" runat="server" />
+
+
+	  </div>
+	</section>
+</aside>
+        <article>  
+  <section>
+  <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+ </section>
+</article>
+        <footer>
+&#169 Copyright 2012 Your Company| Powered by <a href="http://www.google.com.vn/"> Nguyen Huu Doan </a>
+</footer>
+    </div>
+    </form>
+</body>
+</html>

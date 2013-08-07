@@ -1,0 +1,314 @@
+body{
+margin:0 auto;
+width:1000px;
+background:#FFFFFF;
+}
+
+.width{
+background:url(img/bg-body.gif);
+background-color:#2276f2;
+}
+
+aside{
+width:230px;
+float:left;
+background:url(img/bg-body.gif);
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#888888;
+
+}
+
+aside section{
+margin:0px 0px 0px 19px;
+}
+
+aside section #logo{
+margin:40px 0px 40px 0px;
+}
+
+aside section #user{
+margin:0px 9px 0px 5px;
+text-align:right;
+}
+
+aside section #user a{
+color:#CCCCCC;
+text-decoration:none;
+}
+aside section #user a:hover{
+color:#FFFFFF;
+}
+
+aside section div ul{
+list-style:none;
+text-align:right;
+padding:0px;
+width:206px;
+}
+
+aside section div a.menu{
+background: transparent url('img/bg-menu-item-blue.gif') right no-repeat; 
+padding: 10px 15px;
+color:#FFFFFF;
+font-size: 14px;
+display: block;
+text-decoration: none;
+}
+
+aside section div ul a.menu:hover{
+padding-right:30px;
+color:#999999;
+}
+
+aside section div ul li{
+list-style:none;
+text-align:right;
+padding:0px;
+}
+
+aside section div ul li a{
+display:block;
+padding:10px 15px;
+}
+
+article{
+width:770px;
+float:right;
+
+background-color:White;
+min-height:600px;
+}
+
+article section{
+margin: 30px;
+}
+
+ul.modals {
+float: left;
+width: 100%;
+list-style: none;
+padding: 0;
+margin: 0;
+margin-bottom: 15px;
+}
+
+ul.modals li {
+float: left;
+display: inline;
+width: 90px;
+height: 90px;
+background:url(img/sidebar_box_top.png) 100% 0 no-repeat;
+padding: 5px;
+text-align: center;
+margin: 0 15px 15px 0;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+
+ul.modals li a {
+width: 90px;
+height: 90px;
+text-align: center;
+text-decoration:none;
+}
+
+ul.modals li a img {
+float: left;
+display: inline;
+width: 48px;
+height: 48px;
+margin-left: 21px;
+margin-top: 8px;
+margin-bottom: 4px;
+margin-right:21px;
+}
+
+ul.modals li a span {
+text-align: center;
+font-size:15px;
+color:#FFFFFF;
+}
+
+ul.modals li a span:hover{
+color:#00ee00;
+}
+
+.table{
+font-size:14px;
+border:1px solid #111;
+width:100%;
+line-height:1.5em;
+font-style:normal;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background:#FFFFFF;
+}
+
+.table thead th{
+padding:10px;
+background:url(img/sidebar_box_top.png);
+-moz-border-radius: 5px;
+-webkit-border-radius: 3px;
+color:#CCCCCC;
+border-bottom:1px solid #FF0000;
+}
+
+.table tbody td{
+background:#CCCCCC;
+color:#111111;
+height:30px;
+text-align:center;
+}
+
+.table tbody td a{
+text-decoration:none;
+}
+
+.table tbody td a:hover{
+color:#FF0000;
+}
+
+.table1{
+font-size:18px;
+border:1px solid #111;
+width:100%;
+line-height:1.5em;
+font-style:normal;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background:#FFFFFF;
+}
+
+.table1 th {
+padding: 10px;
+background:url(img/bg-login.gif);
+-moz-border-radius: 5px;
+-webkit-border-radius: 3px;
+color: #CCC;
+border-bottom: 1px solid red;
+}
+.table1 td{
+background:#CCCCCC;
+color:#111111;
+height:30px;
+text-align:center;
+}
+
+.table1 .name {
+padding-left:50px;
+font-weight: bold;
+text-align: left;
+vertical-align: middle;
+width: 40%;
+}
+
+
+.table1 .value {
+font-weight: lighter;
+text-align: left;
+vertical-align: middle;
+width: 60%;
+padding-left:50px;
+}
+
+.table2{
+font-size:18px;
+border:1px solid #111;
+width:100%;
+line-height:1.5em;
+font-style:normal;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background:#FFFFFF;
+}
+
+.table2 th {
+padding: 10px;
+background:url(img/bg-login.gif);
+-moz-border-radius: 5px;
+-webkit-border-radius: 3px;
+color: #CCC;
+border-bottom: 1px solid red;
+}
+.table2 td{
+color:#111111;
+height:30px;
+text-align:center;
+}
+
+.table2 .name {
+padding-left:60px;
+font-weight: bold;
+text-align: left;
+vertical-align: middle;
+width: 50%;
+}
+
+
+.table2 .value {
+font-weight: lighter;
+text-align: left;
+vertical-align: middle;
+width: 50%;
+padding-left:100px;
+}
+
+.product_technical_table {
+border:1px solid #111;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+width: 100%;
+}
+
+.product_technical_table .title {
+background:url(../img/bg-login.gif);
+color: #CCCCCC;
+font-weight: bold;
+text-align: center;
+}
+
+.product_technical_table td {
+border: 1px #666666 solid;
+padding: 3px 6px 3px 6px;
+vertical-align: top;
+}
+
+.product_technical_table .technical{
+background:#CCCCCC;
+}
+
+.product_technical_table .name {
+font-weight: bold;
+text-align: right;
+vertical-align: middle;
+width: 43%;
+}
+
+
+.product_technical_table .value {
+font-weight: lighter;
+text-align: left;
+vertical-align: middle;
+width: 57%;
+}
+
+
+
+footer{
+width:1000px;
+height:23px;
+clear:both;
+background:url(img/bg-button-red.gif);
+text-align:center;
+color:#FFFFFF;
+}
+
+footer a{
+text-decoration:none;
+font-size:19px;
+color:#999999;
+}
+.submenu{
+display:none;
+}

@@ -1,0 +1,22 @@
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\Presentation.dll
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\Presentation.pdb
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\Business.dll
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\Data.dll
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\Business.pdb
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\Data.pdb
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\obj\Debug\Presentation.dll
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\DataTransferObject.dll
+C:\Users\Doan\Desktop\SymphonyLimited\Presentation\bin\DataTransferObject.pdb
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\Presentation.dll
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\Presentation.pdb
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\Business.dll
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\Data.dll
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\DataTransferObject.dll
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\Business.pdb
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\DataTransferObject.pdb
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\bin\Data.pdb
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\obj\Debug\Presentation.dll
+C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\Presentation\obj\Debug\Presentation.pdb
