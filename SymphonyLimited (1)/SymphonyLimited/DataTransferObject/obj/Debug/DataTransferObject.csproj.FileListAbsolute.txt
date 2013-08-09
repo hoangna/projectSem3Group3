@@ -1,9 +1,0 @@
-C:\Users\Doan\Desktop\SymphonyLimited\DataTransferObject\bin\Debug\DataTransferObject.dll
-C:\Users\Doan\Desktop\SymphonyLimited\DataTransferObject\bin\Debug\DataTransferObject.pdb
-C:\Users\Doan\Desktop\SymphonyLimited\DataTransferObject\obj\Debug\DataTransferObject.dll
-C:\Users\Doan\Desktop\SymphonyLimited\DataTransferObject\obj\Debug\DataTransferObject.pdb
-C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\DataTransferObject\bin\Debug\DataTransferObject.dll
-C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\DataTransferObject\bin\Debug\DataTransferObject.pdb
-C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\DataTransferObject\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\DataTransferObject\obj\Debug\DataTransferObject.dll
-C:\Users\Admin\Desktop\SymphonyLimited (1)\SymphonyLimited\DataTransferObject\obj\Debug\DataTransferObject.pdb
